@@ -1,0 +1,5 @@
+# 系统 crontab
+# 无系统 crontab
+
+# Hermes cron 任务通过 cronjob_manage 管理，不在系统 crontab 中
+# 恢复后需要手动或用 cronjob_manage 重新创建 Hermes 定时任务

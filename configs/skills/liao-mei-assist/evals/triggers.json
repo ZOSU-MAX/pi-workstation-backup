@@ -1,0 +1,11 @@
+{
+  "skill": "liao-mei-assist",
+  "test_cases": [
+    {"input": "帮我回她这句，主人都不想小奴隶了", "should_trigger": true},
+    {"input": "这句怎么接，她说想听我调教别的人", "should_trigger": true},
+    {"input": "按聊天记录学话术，给我下一句撩她", "should_trigger": true},
+    {"input": "漂流瓶捡到一个发骚的，写首回", "should_trigger": false},
+    {"input": "给她写一份网调契约和早报", "should_trigger": false},
+    {"input": "什么是馒头逼", "should_trigger": false}
+  ]
+}

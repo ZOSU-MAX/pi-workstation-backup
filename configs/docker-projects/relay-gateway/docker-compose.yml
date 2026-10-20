@@ -1,0 +1,25 @@
+services:
+  relay-gateway:
+    build: .
+    image: relay-gateway:1.0.0
+    container_name: relay-gateway
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      UPSTREAM: https://api.longcat.chat/openai/v1
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      LOG_DIR: /data/logs
+    volumes:
+      - relay-logs:/data/logs
+    # Pi has 2GB RAM — keep this container small and bounded
+    mem_limit: 192m
+    cpus: 0.5
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  relay-logs:

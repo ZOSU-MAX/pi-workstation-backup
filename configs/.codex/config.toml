@@ -1,0 +1,29 @@
+model = "LongCat-2.5-Preview"
+model_provider = "longcat"
+
+[model_providers.longcat]
+name = "LongCat Chat"
+base_url = "https://api.longcat.chat/openai/v1"
+env_key = "OPENAI_API_KEY"
+supports_websockets = false
+
+[projects."/opt/data/cache/scratch/codextest-QegkKl"]
+trust_level = "trusted"
+
+[projects."/opt/data/cache/scratch/codexc-g4Fzr2"]
+trust_level = "trusted"
+
+[projects."/opt/data/cache/scratch/codexd-coeo9G"]
+trust_level = "trusted"
+
+[projects."/opt/data/cache/scratch/codexe-QJPYgT"]
+trust_level = "trusted"
+
+[projects."/opt/data/cache/scratch/codexf-9vF0qE"]
+trust_level = "trusted"
+
+[projects."/opt/data/cache/scratch/codexg-gpfVWY"]
+trust_level = "trusted"
+
+[projects."/opt/data/projects/timeparse"]
+trust_level = "trusted"

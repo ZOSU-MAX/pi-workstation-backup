@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="zh-cn"><head><meta charset="utf-8"></head><body><main><div class="language-section"><h1>
+<span lang="zh">抱歉，您目前无法访问此页面</span><br>
+<span lang="en">Sorry, you've been denied access to this page</span><br>
+<span lang="fr">Désolé, l'accès à cette page vous a été refusé</span><br>
+<span lang="de">Entschuldigung, Ihnen wurde der Zugang zu dieser Seite verweigert</span><br>
+<span lang="es">Lo sentimos, se le ha denegado el acceso a esta página</span><br>
+<span lang="ja">申し訳ございませんが、このページへのアクセスが拒否されました</span>
+</h1><div class="reason"><ul><li>
+<span lang="zh">您访问使用的软件带有非常用软件的特征；</span><br>
+<span lang="en">The software that you are using is with uncommon characteristics;</span><br>
+<span lang="fr">Le logiciel que vous utilisez présente des caractéristiques inhabituelles ;</span><br>
+<span lang="de">Die von Ihnen verwendete Software weist ungewöhnliche Eigenschaften auf;</span><br>
+<span lang="es">El software que estás utilizando tiene características poco comunes;</span><br>
+<span lang="ja">使用しているソフトウェアには珍しい特性があります；</span></li><li>
+<span lang="zh">您所在的网段近期向本站发送过异常请求，例如大量连续的请求，或者反复请求大文件。</span><br>
+<span lang="en">Your subnet has sent abnormal requests to our site recently, such as a large number of consecutive requests or repeated requests for large files.</span><br>
+<span lang="fr">Votre sous-réseau a récemment effectué des demandes inhabituelles sur notre site, telles qu'un grand nombre de demandes consécutives ou des demandes répétées de fichiers volumineux.</span><br>
+<span lang="de">Ihr Subnetz hat in letzter Zeit ungewöhnliche Anfragen an unsere Site gesendet, beispielsweise eine große Anzahl aufeinanderfolgender Anfragen oder wiederholte Anfragen nach großen Dateien.</span><br>
+<span lang="es">Su subred ha estado realizando solicitudes inusuales a nuestro sitio recientemente, como una gran cantidad de solicitudes consecutivas o solicitudes repetidas de archivos grandes.</span><br>
+<span lang="ja">最近、サブネットから当社サイトに対して、多数の連続リクエストや大きなファイルに対する繰り返しリクエストなど、異常なリクエストが送信されています。</span></li></ul></div><hr><h2>
+<span lang="zh">您可以尝试什么？</span><br>
+<span lang="en">What can you try?</span><br>
+<span lang="fr">Que pouvez-vous essayer?</span><br>
+<span lang="de">Was können Sie versuchen?</span><br>
+<span lang="es">¿Qué puede intentar?</span><br>
+<span lang="ja">何を試すことができますか？</span></h2><ol><li><strong>
+<span lang="zh">检查访问软件</span> /
+<span lang="en">Check your access software</span> /
+<span lang="fr">Vérifiez votre logiciel d'accès</span> /
+<span lang="de">Überprüfen Sie Ihre Zugriffssoftware</span> /
+<span lang="es">Verifique su software de acceso</span> /
+<span lang="ja">アクセスソフトウェアを確認する</span></strong><p>
+<span lang="zh">本站不会将浏览器（例如最新版本的 Chrome, Firefox, Safari 等常用的浏览器），以及系统自带的软件包管理器（APT，Yum，Pacman 等）标记为恶意软件。请您尝试使用这些软件访问本站。</span><br>
+<span lang="en">We will not mark browsers (such as the latest versions of Chrome, Firefox, Safari and other common browsers) and system package managers (APT, Yum, Pacman, etc.) as malicious software. Please try using these software to access our site.</span><br>
+<span lang="fr">Nous ne signalerons pas les navigateurs (tels que les dernières versions de Chrome, Firefox, Safari et autres navigateurs courants) ni les gestionnaires de paquets système (APT, Yum, Pacman, etc.) comme des logiciels malveillants. Veuillez essayer d'utiliser ces logiciels pour accéder à notre site.</span><br>
+<span lang="de">Wir kennzeichnen Browser (wie die neuesten Versionen von Chrome, Firefox, Safari und anderen gängigen Browsern) und Systempaketmanager (APT, Yum, Pacman usw.) nicht als Schadsoftware. Bitte versuchen Sie, mit dieser Software auf unsere Website zuzugreifen.</span><br>
+<span lang="es">No marcaremos los navegadores (como las últimas versiones de Chrome, Firefox, Safari y otros navegadores comunes) ni los gestores de paquetes del sistema (APT, Yum, Pacman, etc.) como software malicioso. Intente usar estos programas para acceder a nuestro sitio.</span><br>
+<span lang="ja">ブラウザ（Chrome、Firefox、Safariなどの最新版、その他一般的なブラウザなど）やシステムパッケージマネージャ（APT、Yum、Pacmanなど）は、悪意のあるソフトウェアとしてマークされません。これらのソフトウェアを使用して当サイトにアクセスしてみてください。</span></p></li><li><strong>
+<span lang="zh">检查网络环境</span> /
+<span lang="en">Check your network environment</span> /
+<span lang="fr">Vérifiez votre environnement réseau</span> /
+<span lang="de">Überprüfen Sie Ihre Netzwerkumgebung</span> /
+<span lang="es">Verifique su entorno de red</span> /
+<span lang="ja">ネットワーク環境を確認する</span></strong><p>
+<span lang="zh">本站会检查您所使用的 IP 地址是否位于近期有异常请求的网段。如果您在使用公共网络（如校园或企业网络）或者动态 IP 地址（例如家庭宽带），可以尝试切换网络环境后再次访问，例如更换为 IPv6、更换所使用的网络。</span><br>
+<span lang="en">We will check if the IP address that you are using is in the subnets that have had abnormal requests recently. If you are using a public network (such as a campus or enterprise network) or a dynamic IP address (such as home broadband), you can try switching network environments and then accessing again, such as switching to IPv6 and changing the network you are using.</span><br>
+<span lang="fr">Nous vérifierons si l'adresse IP que vous utilisez se trouve dans les sous-réseaux ayant récemment reçu des requêtes anormales. Si vous utilisez un réseau public (comme un réseau de campus ou d'entreprise) ou une adresse IP dynamique (comme un accès Internet haut débit domestique), vous pouvez essayer de changer d'environnement réseau, puis d'y accéder à nouveau, par exemple en passant à IPv6 et en changeant de réseau.</span><br>
+<span lang="de">Wir prüfen, ob sich die von Ihnen verwendete IP-Adresse in den Subnetzen befindet, in denen in letzter Zeit ungewöhnliche Anfragen aufgetreten sind. Wenn Sie ein öffentliches Netzwerk (z. B. ein Campus- oder Unternehmensnetzwerk) oder eine dynamische IP-Adresse (z. B. ein privates Breitbandnetz) verwenden, können Sie versuchen, die Netzwerkumgebung zu wechseln und anschließend erneut darauf zuzugreifen. Dazu können Sie beispielsweise auf IPv6 umstellen und das verwendete Netzwerk ändern.</span><br>
+<span lang="es">Comprobaremos si la dirección IP que utiliza se encuentra en las subredes que han recibido solicitudes anormales recientemente. Si utiliza una red pública (como una red de campus o empresarial) o una dirección IP dinámica (como banda ancha doméstica), puede intentar cambiar de entorno de red y volver a acceder, por ejemplo, cambiando a IPv6 y cambiando la red que utiliza.</span><br>
+<span lang="ja">ご利用のIPアドレスが、最近異常なリクエストが発生したサブネットに含まれているかどうかを確認します。パブリックネットワーク（キャンパスや企業ネットワークなど）や動的IPアドレス（自宅のブロードバンドなど）をご利用の場合は、IPv6への切り替えやネットワークの変更など、ネットワーク環境を切り替えて再度アクセスしてみてください。</span></p></li><li><strong>
+<span lang="zh">更换到其他镜像站</span> /
+<span lang="en">Switch to other mirror sites</span> /
+<span lang="fr">Basculer vers d'autres sites miroirs</span> /
+<span lang="de">Zu anderen Spiegelseiten wechseln</span> /
+<span lang="es">Cambiar a otros sitios espejo</span> /
+<span lang="ja">他のミラーサイトに切り替える</span></strong><p>
+<span lang="zh">目前有许多提供本站类似服务的镜像站，有些镜像站可能相对本站能为您提供更高的带宽或更低的延迟。请您访问 <a href="https://mirrorz.org/list">https://mirrorz.org/list</a> 以查看友站及其提供的镜像列表，或使用 MirrorZ 提供的自动镜像路由服务。</span><br>
+<span lang="en">There are currently many mirror sites that provide similar services. Some mirror sites may provide you with higher bandwidth or lower latency than us. Please visit <a href="https://mirrorz.org/list">https://mirrorz.org/list</a> to view some of such sites and their mirror lists, or use the automatic mirror routing service provided by MirrorZ.</span><br>
+<span lang="fr">Il existe actuellement de nombreux sites miroirs proposant des services similaires. Certains peuvent offrir une bande passante supérieure ou une latence inférieure aux nôtres. Veuillez consulter <a href="https://mirrorz.org/list">https://mirrorz.org/list</a> pour consulter certains de ces sites et leurs listes de miroirs, ou utiliser le service de routage automatique des miroirs fourni par MirrorZ.</span><br>
+<span lang="de">Derzeit gibt es viele Mirror-Sites, die ähnliche Dienste anbieten. Einige Mirror-Sites bieten möglicherweise eine höhere Bandbreite oder geringere Latenz als wir. Besuchen Sie <a href="https://mirrorz.org/list">https://mirrorz.org/list</a>, um einige dieser Sites und ihre Mirror-Listen anzuzeigen, oder nutzen Sie den automatischen Mirror-Routing-Dienst von MirrorZ.</span><br>
+<span lang="es">Actualmente existen muchos sitios espejo que ofrecen servicios similares. Algunos sitios espejo pueden ofrecerle mayor ancho de banda o menor latencia que nosotros. Visite <a href="https://mirrorz.org/list">https://mirrorz.org/list</a> para ver algunos de estos sitios y sus listas de espejos, o utilice el servicio de enrutamiento automático de espejos que ofrece MirrorZ.</span><br>
+<span lang="ja">現在、同様のサービスを提供するミラーサイトが多数存在します。一部のミラーサイトは、MirrorZよりも高い帯域幅や低いレイテンシを提供している場合があります。そのようなサイトとそのミラーリストをご覧になるには、<a href="https://mirrorz.org/list">https://mirrorz.org/list</a> にアクセスしてください。または、MirrorZが提供する自動ミラールーティングサービスをご利用ください。</span></p></li><li><strong>
+<span lang="zh">联系本站管理员</span> /
+<span lang="en">Contact the administrator</span> /
+<span lang="fr">Contactez l'administrateur</span> /
+<span lang="de">Kontaktieren Sie den Administrator</span> /
+<span lang="es">Contactar con el administrador</span> /
+<span lang="ja">管理者に連絡する</span></strong><p>
+<span lang="zh">如果确需访问本站，您可以尝试联系本站管理员，以咨询封禁原因。</span><br>
+<span lang="en">If it is necessary to access our site, you can try to contact the administrator to inquire about the reason for the ban.</span><br>
+<span lang="fr">S'il est nécessaire d'accéder à notre site, vous pouvez essayer de contacter l'administrateur pour vous renseigner sur la raison de l'interdiction.</span><br>
+<span lang="de">Wenn der Zugriff auf unsere Site erforderlich ist, können Sie versuchen, den Administrator zu kontaktieren, um den Grund für die Sperre zu erfragen.</span><br>
+<span lang="es">Si es necesario acceder a nuestro sitio, puede intentar comunicarse con el administrador para preguntar sobre el motivo de la prohibición.</span><br>
+<span lang="ja">当サイトにアクセスする必要がある場合は、管理者に連絡して禁止の理由を問い合わせてください。</span></p><details><summary>
+<span lang="zh">联系本站管理员的方式</span> /
+<span lang="en">How to contact the administrator</span> /
+<span lang="fr">Comment contacter l'administrateur</span> /
+<span lang="de">Wie Sie den Administrator kontaktieren</span> /
+<span lang="es">Cómo contactar al administrador</span> /
+<span lang="ja">管理者への連絡方法</span></summary><p>
+<span lang="zh">您可以将相关情况用邮件发送至 <a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a>，请注意一定带有以下标识符。</span><br>
+<span lang="en">You can briefly explain your situation by email and send it to <a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a>. Please make sure to include the identifier below.</span><br>
+<span lang="fr">Vous pouvez expliquer brièvement votre situation par courriel à <a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a>. Veuillez inclure l'identifiant ci-dessous.</span><br>
+<span lang="de">Sie können Ihre Situation kurz per E-Mail schildern und diese an <a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a> senden. Bitte geben Sie dabei unbedingt die unten stehende Kennung an.</span><br>
+<span lang="es">Puede explicar brevemente su situación por correo electrónico a <a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a>. Asegúrese de incluir el identificador a continuación.</span><br>
+<span lang="ja">状況を簡潔にご説明の上、<a href="mailto:support@tuna.tsinghua.edu.cn">support@tuna.tsinghua.edu.cn</a> までメールでお送りください。その際、下記の識別子を必ずご記入ください。</span></p>
+<pre class="ident">00000014 d59212442567560e1981ae2ac54b06d5<!--�d=�--></pre>
+</details></li></ol></div></main><style>@import url("https://fonts.thu.fail/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");body{padding:0;margin:0}:root{font-family:"Inter","Source Sans Pro","Source Han Sans SC","Source Han Sans VF SC",sans-serif;--title-font:"Source Serif Pro","Source Han Serif SC Subset","Source Han Serif SC","Source Han Serif VF SC","Source Han Serif","Source Han Serif VF",serif;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}h1,h2{font-family:var(--title-font)}h1 small,h2 small{display:block;font-size:.7em;font-weight:900}main{padding:40px 40px;max-width:800px;margin:0 auto;line-height:2em}.ident{font-size:24px;text-align:center;padding:5px 10px;margin:10px 0;border-radius:4px;background:rgba(0,0,0,.06);font-family:monospace}details{padding-left:15px;border-left:5px solid rgba(0,0,0,.12)}details summary{background:rgba(0,0,0,.06);margin-left:-15px;padding:10px 15px;cursor:pointer}.reason{font-size:1.2em}.language-section{margin-bottom:60px;padding-bottom:40px;border-bottom:2px solid rgba(0,0,0,.1)}.language-section:last-child{border-bottom:0}.language-title{font-size:.9em;color:#666;margin-bottom:20px;font-weight:bold;text-transform:uppercase;letter-spacing:1px}li{margin-top:.2em;margin-bottom:.2em}ol ul{margin-top:.5em;margin-bottom:.5em}</style></body></html>
